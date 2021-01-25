@@ -1,0 +1,17 @@
+certifi==2019.11.28
+chardet==3.0.4
+Click==7.0
+env==0.1.0
+Flask==1.1.1
+idna==2.8
+itsdangerous==1.1.0
+Jinja2==2.11.1
+MarkupSafe==1.1.1
+praw==6.4.0
+prawcore==1.0.1
+requests==2.22.0
+six==1.13.0
+update-checker==0.16
+urllib3==1.25.7
+websocket-client==0.56.0
+Werkzeug==1.0.0
